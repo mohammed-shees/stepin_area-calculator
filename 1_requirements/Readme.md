@@ -47,5 +47,5 @@ This project works in command prompt. so, user need to have computer or laptop t
 |LR01 |area of circle|Technical | Implemented| 
 |LR02 |area of square|Technical | Implemented|  
 |LR03 |area of rectangle|Technical | Implemented|  
-|LR04 |area of triangle | Implemented|  
+|LR04 |area of triangle | technical|Implemented|  
 
