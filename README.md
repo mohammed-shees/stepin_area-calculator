@@ -38,6 +38,6 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 
 [![code grade](https://www.code-inspector.com/project/28010/status/svg)](https://www.code-inspector.com)
 [![CI](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/main.yml/badge.svg)](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/main.yml)
-[![CI](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/main.yml/badge.svg)](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/main.yml)
+[![C/C++ CI](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/c-cpp.yml)
 [![GitInspector](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/git%20inspector.yml)
 
