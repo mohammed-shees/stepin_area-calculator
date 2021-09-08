@@ -1,4 +1,4 @@
-![image](https://www.freeiconspng.com/img/8186.png)
+![image](https://p.kindpng.com/picc/s/337-3373588_mac-calculator-icon-transparent-background-hd-png-download.png)
 
 
 ## Folder Structure
