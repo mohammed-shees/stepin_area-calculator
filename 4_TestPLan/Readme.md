@@ -8,7 +8,6 @@
 
 |  HT_2    |  AREA OF TRAPEZIUM    | A,B,H | (a+B)H*0.5 | (a+B)H*0.5 | requirement based|
 
-|  LT_1       | AREA OF SQUARE | A | A*A | A*A | requirement based|
 
 
 
