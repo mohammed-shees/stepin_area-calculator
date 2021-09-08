@@ -37,4 +37,5 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 
 
 [![code grade](https://www.code-inspector.com/project/28010/status/svg)](https://www.code-inspector.com)
+[![CI](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/main.yml/badge.svg)](https://github.com/mohammed-shees/stepin_area-calculator/actions/workflows/main.yml)
 
