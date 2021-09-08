@@ -1,4 +1,4 @@
-![image](https://www.iconfinder.com/icons/2639901/calculator_icon.png)
+![image](https://www.iconfinder.com/icons/2639901/calculator_icon)
 
 
 ## Folder Structure
