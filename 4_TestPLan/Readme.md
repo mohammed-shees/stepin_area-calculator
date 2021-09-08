@@ -2,7 +2,8 @@
 
 | *Test ID* | *Description*                                              | *Exp I/P* | *Exp O/P* | *Actual Out* |*Type Of Test*  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-| 
+ 
+
 |  HT_1    | AREA OF PARALLELOGRAM |B,H| B*H | B*H | requirement based|
 |  HT_2    |  AREA OF TRAPEZIUM    | A,B,H | (a+B)H/2 | (a+B)H/2 | requirement based|
 
