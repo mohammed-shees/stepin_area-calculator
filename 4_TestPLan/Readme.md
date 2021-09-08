@@ -5,6 +5,7 @@
  
 
 |  HT_1    | AREA OF PARALLELOGRAM |B,H| B*H | B*H | requirement based|
+
 |  HT_2    |  AREA OF TRAPEZIUM    | A,B,H | (a+B)H*0.5 | (a+B)H*0.5 | requirement based|
 
 
