@@ -28,3 +28,12 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |3. | issues in running test cases | specifying correct return values for functions
 |4. | Issues in workflows | fixed them by updating the path to all files correctly
 |5. |gcov generating *.gcda and *.gcno files in different directory than object file| not fixed yet|
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ccb52338459148bc87268e3ed1df1491)](https://www.codacy.com/gh/mohammed-shees/stepin_area-calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mohammed-shees/stepin_area-calculator&amp;utm_campaign=Badge_Grade)
+
+[![code quality] (https://www.code-inspector.com/project/28009/score/svg)] (https://www.code-inspector.com)
+
+
+
+[![code grade] (https://www.code-inspector.com/project/28009/status/svg)] (https://www.code-inspector.com)
