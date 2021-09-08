@@ -37,3 +37,6 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 
 
 [![code grade](https://www.code-inspector.com/project/28010/status/svg)](https://www.code-inspector.com)
+
+
+[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
